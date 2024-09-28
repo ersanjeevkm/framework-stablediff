@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ailearner"
+  site-url: "https://ersanjeevkm.github.io/framework-stablediff"
+  description: "Learner framework cum stable diff -  learning impl repo"
+  repo-branch: main
+  repo-url: "https://github.com/ersanjeevkm/framework-stablediff"
